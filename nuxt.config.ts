@@ -12,9 +12,13 @@ export default defineNuxtConfig({
     baseURL: '/v1sages/',
     buildAssetsDir: 'assets'
   },
-  ssr: false,
+  ssr: true,
+
   nitro: {
-    preset: 'static'
+    preset: 'static',
+    prerender: {
+      crawlLinks: true
+    }
   },
 
   css: ['~/assets/css/main.css'],
