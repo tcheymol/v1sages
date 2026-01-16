@@ -9,9 +9,6 @@ export default defineNuxtConfig({
     enabled: true
   },
   ssr: false,
-  app: {
-    baseURL: '/v1sages/',
-  },
 
   css: ['~/assets/css/main.css'],
 
