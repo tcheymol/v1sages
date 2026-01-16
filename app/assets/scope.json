@@ -1,0 +1,3520 @@
+{
+    "header": {
+        "generated": "2026-01-07T16:51:06.2204299",
+        "principal": "Thibaut CHEYMOL",
+        "processId": 3120
+    },
+    "data": {
+        "count": 208,
+        "items": [
+            {
+                "id": 45907,
+                "name": "Anaïs ABREU",
+                "firstName": "Anaïs",
+                "lastName": "ABREU",
+                "mail": "anais.abreu@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Cheffe de projet développement RH",
+                "birthDate": "1991-01-25T00:00:00",
+                "picture": {
+                    "id": "b8f726ad-34ef-4f66-87e1-82dd4bab8f02",
+                    "name": "2.JPG",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45907/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45799,
+                "name": "Ayat AHMED",
+                "firstName": "Ayat",
+                "lastName": "AHMED",
+                "mail": "ayat.ahmed@article-1.eu",
+                "professionalMobile": "0621595815",
+                "jobTitle": "Chargée de déploiement Mentorat",
+                "birthDate": "1994-06-28T00:00:00",
+                "picture": {
+                    "id": "8dcba938-c439-495f-864c-662029a68c1a",
+                    "name": "PPA1.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45799/picture?a=0&width=200",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45043,
+                "name": "François ALLAFORT-DUVERGER",
+                "firstName": "François",
+                "lastName": "ALLAFORT-DUVERGER",
+                "mail": "francois.allafort-duverger@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Responsable Communication Digitale et Marketing",
+                "birthDate": "1988-10-25T00:00:00",
+                "picture": {
+                    "id": "a7e9c909-67ef-4d98-908d-4cbe65be3803",
+                    "name": "PP françois 1.png",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45043/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45654,
+                "name": "Souad ANEGMAR",
+                "firstName": "Souad",
+                "lastName": "ANEGMAR",
+                "mail": "souad.anegmar@fratelilab.fr",
+                "professionalMobile": null,
+                "jobTitle": "Chercheur",
+                "birthDate": "1988-01-20T00:00:00",
+                "picture": {
+                    "id": "15855364-a761-41c4-a256-b0a1219b4f83",
+                    "name": "Anegmar Souad(1).jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45654/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46031,
+                "name": "Apolline ATTIA-AUDRAIN",
+                "firstName": "Apolline",
+                "lastName": "ATTIA-AUDRAIN",
+                "mail": "apolline.attia@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Chargée de déploiement pôle étudiants",
+                "birthDate": "1997-05-02T00:00:00",
+                "picture": {
+                    "id": "4356b469-0050-4ace-9ed9-76dcc2359e65",
+                    "name": "Capture d’écran 2024-07-17 à 10.33.41.png",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46031/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46164,
+                "name": "Marion AUBINAIS",
+                "firstName": "Marion",
+                "lastName": "AUBINAIS",
+                "mail": "marion.aubinais@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Coordinatrice partenariats privés",
+                "birthDate": "2000-10-10T00:00:00",
+                "picture": {
+                    "id": "0a71e115-6fc9-4c73-bf99-966c8a9f5974",
+                    "name": "photo CV.jpeg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46164/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45755,
+                "name": "Marie AUZANNAT",
+                "firstName": "Marie",
+                "lastName": "AUZANNAT",
+                "mail": "marie.auzannat@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Responsable du pôle Engagement des jeunes et Responsable des partenariats et projets transverses",
+                "birthDate": "1986-09-23T00:00:00",
+                "picture": {
+                    "id": "faec06d3-84b3-4c74-bcca-9725d35d5638",
+                    "name": "IMG_20200130_173342.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45755/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46131,
+                "name": "Jade AVRIL",
+                "firstName": "Jade",
+                "lastName": "AVRIL",
+                "mail": "jade.avril@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Apprentie",
+                "birthDate": "2002-08-21T00:00:00",
+                "picture": {
+                    "id": "f6f276f3-c9bc-4972-862b-c5deff32fb49",
+                    "name": "IMG_7083.jpeg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46131/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45739,
+                "name": "Sarah AYACHE",
+                "firstName": "Sarah",
+                "lastName": "AYACHE",
+                "mail": "sarah.ayache@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Coordinatrice Pré Bac",
+                "birthDate": "1994-03-05T00:00:00",
+                "picture": {
+                    "id": "cb6646c4-25ad-44f7-8033-8e5f78106b2b",
+                    "name": "Photo Sarah 1.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45739/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46144,
+                "name": "Juliette BARAT-MORALES OCAMPO",
+                "firstName": "Juliette",
+                "lastName": "BARAT-MORALES OCAMPO",
+                "mail": "juliette.barat@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Coordinatrice Recrutement et Parrainage",
+                "birthDate": "1995-09-26T00:00:00",
+                "picture": {
+                    "id": "2125d3a0-18bd-4000-b30a-50a060f0c103",
+                    "name": "IMG_5672.jpeg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46144/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46160,
+                "name": "Léonie BARATOU",
+                "firstName": "Léonie",
+                "lastName": "BARATOU",
+                "mail": "leonie.baratou@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Chargée de déploiement pôles étudiants et lycéens",
+                "birthDate": "1998-12-07T00:00:00",
+                "picture": {
+                    "id": "442bb1c3-9cb1-43c7-bc05-ef163dce3d57",
+                    "name": "1000043616.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46160/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46015,
+                "name": "Corentin BAREL",
+                "firstName": "Corentin",
+                "lastName": "BAREL",
+                "mail": "corentin.barel@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Chargé de déploiement et Référent Mentorat",
+                "birthDate": "1996-09-14T00:00:00",
+                "picture": {
+                    "id": "e9409755-697b-4ac4-abbb-ce95a0ff3023",
+                    "name": "162EFF82-31C0-4D8F-8927-AEE496F422FA.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46015/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45963,
+                "name": "Noémi BARTA",
+                "firstName": "Noémi",
+                "lastName": "BARTA",
+                "mail": "noemi.barta@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Web/Data analyst mentorat",
+                "birthDate": "1992-04-21T00:00:00",
+                "picture": {
+                    "id": "f62e5558-1453-43e4-9ee6-837a9a4e9a29",
+                    "name": "20250212_164347.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45963/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46142,
+                "name": "Tihia BARTEL",
+                "firstName": "Tihia",
+                "lastName": "BARTEL",
+                "mail": "tihia.bartel@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Volontaire",
+                "birthDate": "2003-12-21T00:00:00",
+                "picture": {
+                    "id": "d0dad381-2ac1-4142-a69f-d25fef7c77a1",
+                    "name": "IMG20240507153714.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46142/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46118,
+                "name": "Vincent BASILE",
+                "firstName": "Vincent",
+                "lastName": "BASILE",
+                "mail": "vincent.basile@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Mécénat de compétences",
+                "birthDate": "1975-12-05T00:00:00",
+                "picture": {
+                    "id": "2247af63-5947-40af-a69b-931611521e61",
+                    "name": "20140925_PC_BASILE_Vincent.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46118/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 42755,
+                "name": "Sébastien BAUVET",
+                "firstName": "Sébastien",
+                "lastName": "BAUVET",
+                "mail": "sebastien.bauvet@fratelilab.fr",
+                "professionalMobile": null,
+                "jobTitle": "Responsable de recherches en sciences sociales",
+                "birthDate": "1981-11-12T00:00:00",
+                "picture": {
+                    "id": "6e1d612e-93df-425e-b4b3-a04cbe3d5b29",
+                    "name": "photo-sebastien square.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/42755/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 34877,
+                "name": "Cécilia BEAUVAIS",
+                "firstName": "Cécilia",
+                "lastName": "BEAUVAIS",
+                "mail": "cecilia.beauvais@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Responsable du programme de l'ENVOL",
+                "birthDate": "1982-11-14T00:00:00",
+                "picture": {
+                    "id": "d2790d87-70a7-46f0-b894-eddb0bd483fa",
+                    "name": "Capture d’écran 2020-07-01 à 17.43.05.png",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/34877/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45980,
+                "name": "El-Anrifath Billah A BELLO",
+                "firstName": "El-Anrifath Billah A",
+                "lastName": "BELLO",
+                "mail": "anrifath.bello@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Contrôleuse de gestion junior",
+                "birthDate": "1995-02-12T00:00:00",
+                "picture": {
+                    "id": "c628b7da-3ea7-4d58-a885-e152d3ceedde",
+                    "name": "Capture.JPG",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45980/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46188,
+                "name": "Oriane BENMAMAR",
+                "firstName": "Oriane",
+                "lastName": "BENMAMAR",
+                "mail": "oriane.benmamar@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Volontaire",
+                "birthDate": "1999-09-23T00:00:00",
+                "picture": {
+                    "id": "42ad921a-7544-47bf-94b7-040a1e4173df",
+                    "name": "1000009791.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46188/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45832,
+                "name": "Amandine BEZ",
+                "firstName": "Amandine",
+                "lastName": "BEZ",
+                "mail": "amandine.bez@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Chargée de communication programmes",
+                "birthDate": "1999-01-15T00:00:00",
+                "picture": {
+                    "id": "912872ac-4e07-438b-bc37-20875a0aecb6",
+                    "name": "Amandine 2.png",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45832/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45763,
+                "name": "Claire BICARD",
+                "firstName": "Claire",
+                "lastName": "BICARD",
+                "mail": "claire.bicard@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Chargée de déploiement et Référente de l'académie de Clermont",
+                "birthDate": "1992-08-18T00:00:00",
+                "picture": {
+                    "id": "4fe755a3-c34b-4b3e-b85d-1746f79771b2",
+                    "name": "20211013_162611.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45763/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46111,
+                "name": "Marion BIGNET",
+                "firstName": "Marion",
+                "lastName": "BIGNET",
+                "mail": "marion.bignet@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Head of products",
+                "birthDate": "1994-02-19T00:00:00",
+                "picture": {
+                    "id": "224624b9-ba21-4cc6-a36d-a79e095c95a0",
+                    "name": "26.2.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46111/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46209,
+                "name": "Miléna BIGOT-VERDIER",
+                "firstName": "Miléna",
+                "lastName": "BIGOT-VERDIER",
+                "mail": "milena.verdier@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Responsable régionale HDF",
+                "birthDate": "1990-11-17T00:00:00",
+                "picture": {
+                    "id": "8fbc268b-4b5c-472a-923b-060d1702bd9b",
+                    "name": "1685458347826.jpeg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46209/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46199,
+                "name": "Charlotte BLANCHARD",
+                "firstName": "Charlotte",
+                "lastName": "BLANCHARD",
+                "mail": "charlotte.blanchard@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Volontaire",
+                "birthDate": "2004-04-02T00:00:00",
+                "picture": {
+                    "id": "841f563a-6883-4093-be9b-88d234ab725d",
+                    "name": "IMG_CF4F8438BD11-1.jpeg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46199/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45957,
+                "name": "Marie BLANDIN",
+                "firstName": "Marie",
+                "lastName": "BLANDIN",
+                "mail": "marie.blandin@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Chargée de déploiement mentorat et Référente antenne académique de Grenoble",
+                "birthDate": "1994-06-24T00:00:00",
+                "picture": {
+                    "id": "0f811956-ace9-42c7-9b7f-bf53a4cb6077",
+                    "name": "Design sans titre.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45957/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45993,
+                "name": "Célia BONNET",
+                "firstName": "Célia",
+                "lastName": "BONNET",
+                "mail": "celia.bonnet@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Chargée de déploiement pré bac et Mentorat vers le Sup'",
+                "birthDate": "2002-06-25T00:00:00",
+                "picture": {
+                    "id": "1faea211-bfda-4441-a1c6-b7f56719c269",
+                    "name": "photo fond blanc.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45993/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46208,
+                "name": "Monique BONNET",
+                "firstName": "Monique",
+                "lastName": "BONNET",
+                "mail": "monique.bonnet@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Mécénat de compétences",
+                "birthDate": "1967-06-17T00:00:00",
+                "picture": {
+                    "id": "96f79d24-1cf8-4ab7-961b-b536e754094a",
+                    "name": "IMG_2723.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46208/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46154,
+                "name": "Lina BOUCAUD",
+                "firstName": "Lina",
+                "lastName": "BOUCAUD",
+                "mail": "lina.boucaud@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Chargée de déploiement pôle lycéens",
+                "birthDate": "2003-05-18T00:00:00",
+                "picture": {
+                    "id": "a760118b-1845-4ac1-8911-51d6242b33c5",
+                    "name": "WhatsApp Image 2025-05-27 at 13_54_edite.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46154/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45858,
+                "name": "Antoine BOUCAULT",
+                "firstName": "Antoine",
+                "lastName": "BOUCAULT",
+                "mail": "antoine.boucault@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Responsable digital et Adjoint à la direction digital",
+                "birthDate": "1990-07-31T00:00:00",
+                "picture": {
+                    "id": "df6365e4-26bc-48b9-8feb-a75891742879",
+                    "name": "profile pic.PNG",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45858/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46187,
+                "name": "Florence BOUGHANEM",
+                "firstName": "Florence",
+                "lastName": "BOUGHANEM",
+                "mail": "florence.boughanem@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Mécénat de compétences",
+                "birthDate": null,
+                "picture": null
+            },
+            {
+                "id": 45953,
+                "name": "Emma BREIDI",
+                "firstName": "Emma",
+                "lastName": "BREIDI",
+                "mail": "emma.breidi@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Coordinatrice Actions collectives – Réussite des études",
+                "birthDate": "1998-11-04T00:00:00",
+                "picture": {
+                    "id": "1bc27b1b-efb9-4637-bb4c-2f240abcd460",
+                    "name": "8O2A8097.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45953/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46087,
+                "name": "Capucine BRIDOUX",
+                "firstName": "Capucine",
+                "lastName": "BRIDOUX",
+                "mail": "capucine.bridoux@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Chargée de l'animation des communautés ",
+                "birthDate": "1995-12-31T00:00:00",
+                "picture": {
+                    "id": "745fabf2-b79a-4c92-8523-d68db66e51fc",
+                    "name": "CV - CAPUCINE BRIDOUX.png",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46087/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46026,
+                "name": "Marie BRUN",
+                "firstName": "Marie",
+                "lastName": "BRUN",
+                "mail": "marie.brun@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Chargée de déploiement Mentorat ",
+                "birthDate": "1989-11-19T00:00:00",
+                "picture": {
+                    "id": "3cef77f0-cd52-4403-a9fd-a176a834c4bf",
+                    "name": "a.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46026/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45964,
+                "name": "Julie BUCHART",
+                "firstName": "Julie",
+                "lastName": "BUCHART",
+                "mail": "julie.buchart@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Directrice des Ressources Humaines",
+                "birthDate": "1985-01-31T00:00:00",
+                "picture": {
+                    "id": "5d32d9c8-f585-4923-abb4-b9149cbb93f5",
+                    "name": "me.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45964/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45728,
+                "name": "Ségolène BUNEL",
+                "firstName": "Ségolène",
+                "lastName": "BUNEL",
+                "mail": "segolene.bunel@article-1.eu",
+                "professionalMobile": "06 10 45 73 90",
+                "jobTitle": "Responsable régionale Nouvelle Aquitaine",
+                "birthDate": "1989-08-25T00:00:00",
+                "picture": {
+                    "id": "236100e2-c6c8-4e81-b962-3606c00a18f6",
+                    "name": "Photo Ségolène Bunel.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45728/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45776,
+                "name": "Orianne BUTERA",
+                "firstName": "Orianne",
+                "lastName": "BUTERA",
+                "mail": "orianne.butera@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Coordinatrice pôle étudiants",
+                "birthDate": "1998-11-21T00:00:00",
+                "picture": {
+                    "id": "e10673aa-0170-4ae1-b831-4c9634a98e1f",
+                    "name": "portrait-69 (2).jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45776/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45825,
+                "name": "Auriane CAMINADE",
+                "firstName": "Auriane",
+                "lastName": "CAMINADE",
+                "mail": "auriane.caminade@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Coordinatrice Pré-bac",
+                "birthDate": "1997-08-22T00:00:00",
+                "picture": {
+                    "id": "e5ab29d0-e17b-4e7c-9137-d321ad315f50",
+                    "name": "294412531_1976868402703508_949496036640061013_n.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45825/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45754,
+                "name": "Océane CANO",
+                "firstName": "Océane",
+                "lastName": "CANO",
+                "mail": "oceane.cano@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Coordinatrice des actions Prébac",
+                "birthDate": "1996-10-19T00:00:00",
+                "picture": {
+                    "id": "2115466c-18d1-43e4-b2f5-c30e88929c10",
+                    "name": "image_6487327.png",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45754/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45806,
+                "name": "Yann CARCEL",
+                "firstName": "Yann",
+                "lastName": "CARCEL",
+                "mail": "yann.carcel@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Chef de projets partenariats",
+                "birthDate": "1995-01-25T00:00:00",
+                "picture": {
+                    "id": "e3ca53ad-1d02-46c0-ba69-26424fc3a41a",
+                    "name": "272685184_1698121003691404_8115351434934933593_n.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45806/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46136,
+                "name": "Naïa CASTETS",
+                "firstName": "Naïa",
+                "lastName": "CASTETS",
+                "mail": "naia.castets@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Volontaire",
+                "birthDate": "2004-10-14T00:00:00",
+                "picture": {
+                    "id": "d8b9d18d-a7db-43fd-85b4-951d943f6e4c",
+                    "name": "DSC_0374.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46136/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45828,
+                "name": "Victoire CATTOEN",
+                "firstName": "Victoire",
+                "lastName": "CATTOEN",
+                "mail": "victoire.cattoen@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Chargée de déploiement mentorat",
+                "birthDate": "1997-03-26T00:00:00",
+                "picture": {
+                    "id": "923941ff-5664-40f3-a2ee-df53b35aaa35",
+                    "name": "photo CV.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45828/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46047,
+                "name": "Axelle CHAMBON",
+                "firstName": "Axelle",
+                "lastName": "CHAMBON",
+                "mail": "axelle.chambon@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Chargée de déploiement pôle étudiants ",
+                "birthDate": "2003-06-17T00:00:00",
+                "picture": {
+                    "id": "367fab3e-6cb0-45b9-b1ba-7134a973e5a7",
+                    "name": "image0 (2).jpeg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46047/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45635,
+                "name": "Léa CHAMPMARTIN",
+                "firstName": "Léa",
+                "lastName": "CHAMPMARTIN",
+                "mail": "lea.champmartin@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Product Manager",
+                "birthDate": "1994-03-02T00:00:00",
+                "picture": {
+                    "id": "580d07e0-783f-4f4c-bfd4-42fda9b7abd6",
+                    "name": "4953.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45635/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45891,
+                "name": "Marine CHARDON",
+                "firstName": "Marine",
+                "lastName": "CHARDON",
+                "mail": "marine.chardon@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Coordinatrice de partenariats publics et internationaux",
+                "birthDate": "1995-01-17T00:00:00",
+                "picture": {
+                    "id": "7d05e434-09a3-46a1-a582-c6bd65032a28",
+                    "name": "unnamed.png",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45891/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46212,
+                "name": "Thibaut CHEYMOL",
+                "firstName": "Thibaut",
+                "lastName": "CHEYMOL",
+                "mail": "thibaut.cheymol@article-1.eu",
+                "directLine": null,
+                "professionalMobile": null,
+                "jobTitle": "Lead développeur senior fullstack",
+                "birthDate": "1991-01-09T00:00:00",
+                "picture": {
+                    "id": "60a37e2f-2e86-4ec8-a8a0-2a8fcac194e6",
+                    "name": "photo.jpeg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46212/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45944,
+                "name": "Constance CHEYNEL",
+                "firstName": "Constance",
+                "lastName": "CHEYNEL",
+                "mail": "constance.cheynel@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Chercheur",
+                "birthDate": "1992-05-06T00:00:00",
+                "picture": {
+                    "id": "baa05672-3898-415b-be59-e15a36bac7ca",
+                    "name": "Photo 187.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45944/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45911,
+                "name": "Périne CODA",
+                "firstName": "Périne",
+                "lastName": "CODA",
+                "mail": "perine.coda@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Cheffe de projet Offre RH",
+                "birthDate": "1993-05-12T00:00:00",
+                "picture": {
+                    "id": "d6b1642d-abdd-4eba-bbc9-10ca164c06f5",
+                    "name": "art-116 2.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45911/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45794,
+                "name": "Claire CORLAY",
+                "firstName": "Claire",
+                "lastName": "CORLAY",
+                "mail": "claire.corlay@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Responsable du pôle Lycée",
+                "birthDate": "1991-05-29T00:00:00",
+                "picture": {
+                    "id": "dd8badea-1413-4ba1-892d-ccfc9a40c4c1",
+                    "name": "Photo pro Claire Corlay.png",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45794/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45827,
+                "name": "Elodie COSTE",
+                "firstName": "Elodie",
+                "lastName": "COSTE",
+                "mail": "elodie.coste@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Coordinatrice Prébac",
+                "birthDate": "1994-04-27T00:00:00",
+                "picture": {
+                    "id": "68935ba9-cc4e-4fb5-9be2-826863981400",
+                    "name": "photooo.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45827/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46215,
+                "name": "Joseph COSTE",
+                "firstName": "Joseph",
+                "lastName": "COSTE",
+                "mail": "joseph.coste@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Volontaire",
+                "birthDate": null,
+                "picture": null
+            },
+            {
+                "id": 45809,
+                "name": "Maroussia COUTEAU",
+                "firstName": "Maroussia",
+                "lastName": "COUTEAU",
+                "mail": "maroussia.couteau@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Chargée de déploiement Mentorat",
+                "birthDate": "1996-08-19T00:00:00",
+                "picture": {
+                    "id": "662d367e-9a1f-461a-bda9-93f046d1a8aa",
+                    "name": "30D1AABF-C117-4BA4-ABA2-E7BC544734D1.jpeg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45809/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46175,
+                "name": "Valentine CRESPON - DUMONT",
+                "firstName": "Valentine",
+                "lastName": "CRESPON - DUMONT",
+                "mail": "valentine.crespon@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Chargée de déploiement et référente du Programme MA1SON",
+                "birthDate": "1999-04-23T00:00:00",
+                "picture": {
+                    "id": "7dc996a7-46e5-44ac-9d87-1c227a05a699",
+                    "name": "Capture d’écran du 2025-08-18 17-37-33.png",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46175/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46182,
+                "name": "Lola CUCIS",
+                "firstName": "Lola",
+                "lastName": "CUCIS",
+                "mail": "lola.cucis@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Chargée de déploiement Pôle lycéens",
+                "birthDate": "2001-08-29T00:00:00",
+                "picture": {
+                    "id": "d5f73283-72de-48d2-b630-5dd2abfcf37f",
+                    "name": "IMG_0895.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46182/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46103,
+                "name": "Guillaume DABLIN",
+                "firstName": "Guillaume",
+                "lastName": "DABLIN",
+                "mail": "guillaume.dablin@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Coordinateur post-bac",
+                "birthDate": "1986-02-28T00:00:00",
+                "picture": {
+                    "id": "82bbf94a-1834-4ad8-a8f9-d54c82bcf309",
+                    "name": "IMG_20200705_160220.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46103/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45843,
+                "name": "Loriane DAMICIS",
+                "firstName": "Loriane",
+                "lastName": "DAMICIS",
+                "mail": "loriane.damicis@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Référente de l’académie de Nice et référente projet transverse national",
+                "birthDate": "1990-06-24T00:00:00",
+                "picture": {
+                    "id": "433e0d6b-0ce3-475a-848b-ca0e255b157e",
+                    "name": "Loriane Damicis-ID.JPG",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45843/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45998,
+                "name": "Estelle DARRIGAN",
+                "firstName": "Estelle",
+                "lastName": "DARRIGAN",
+                "mail": "estelle.darrigan@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Traffic Manager",
+                "birthDate": "1995-01-06T00:00:00",
+                "picture": {
+                    "id": "f8f29dfa-b220-4ec1-8b34-5da3af203ddb",
+                    "name": "Estelle.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45998/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46186,
+                "name": "Margo DAUBARD",
+                "firstName": "Margo",
+                "lastName": "DAUBARD",
+                "mail": "margo.daubard@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Coordinatrice des actions Engagement   ",
+                "birthDate": "2002-08-14T00:00:00",
+                "picture": {
+                    "id": "49d0a8e6-2632-433b-9460-66f1610b3bd5",
+                    "name": "Margo.jpeg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46186/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45893,
+                "name": "Julie DAVASSE",
+                "firstName": "Julie",
+                "lastName": "DAVASSE",
+                "mail": "julie.davasse@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Coordinatrice Evènementiels et dispositifs de mobilité internationale et Engagement (RSE)",
+                "birthDate": "1996-08-10T00:00:00",
+                "picture": {
+                    "id": "c6aa33f6-90a6-45a5-aafa-f9093451357b",
+                    "name": "1724854680776.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45893/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46033,
+                "name": "Clothilde DEFOUR-PANEGOS",
+                "firstName": "Clothilde",
+                "lastName": "DEFOUR-PANEGOS",
+                "mail": "clothilde.defour-panegos@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Chargée de déploiement Mentorat",
+                "birthDate": "2000-11-13T00:00:00",
+                "picture": {
+                    "id": "771325a8-02b3-428f-8f0f-b6830802531b",
+                    "name": "unnamed - Copie.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46033/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45650,
+                "name": "Tyna DEGREMONT",
+                "firstName": "Tyna",
+                "lastName": "DEGREMONT",
+                "mail": "tyna.degremont@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Coordinatrice projet Inspire",
+                "birthDate": "1993-04-23T00:00:00",
+                "picture": {
+                    "id": "bd8c0298-17d0-4f8a-a1c1-5d953f7387de",
+                    "name": "received_1008365653137281.png",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45650/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45868,
+                "name": "Olivia DELEMAZURE",
+                "firstName": "Olivia",
+                "lastName": "DELEMAZURE",
+                "mail": "olivia.delemazure@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Déléguée Régionale Auvergne Rhône-Alpes",
+                "birthDate": "1989-08-08T00:00:00",
+                "picture": {
+                    "id": "e5e81d0f-44d2-455a-9d19-0ba091fca12c",
+                    "name": "DSC00809.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45868/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46195,
+                "name": "Léa DEMILLY",
+                "firstName": "Léa",
+                "lastName": "DEMILLY",
+                "mail": "lea.demilly@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Chargée de déploiement pôle lycéens",
+                "birthDate": "2001-02-13T00:00:00",
+                "picture": {
+                    "id": "82bda934-aa74-48db-87eb-8640474663c0",
+                    "name": "IMG_7002.png",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46195/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45606,
+                "name": "Sylvie DESQUESNES",
+                "firstName": "Sylvie",
+                "lastName": "DESQUESNES",
+                "mail": "sylvie.desquesnes@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Chargée de gestion administrative",
+                "birthDate": "1973-04-30T00:00:00",
+                "picture": null
+            },
+            {
+                "id": 45815,
+                "name": "Marie DESSAIGNE",
+                "firstName": "Marie",
+                "lastName": "DESSAIGNE",
+                "mail": "marie.dessaigne@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Coordinatrice Jobready",
+                "birthDate": "1986-09-28T00:00:00",
+                "picture": {
+                    "id": "158fd555-37a2-4f5b-a67c-aaaec94cd9c9",
+                    "name": "Photo profil pro Marie DESSAIGNE.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45815/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46197,
+                "name": "Lola DI MARIA",
+                "firstName": "Lola",
+                "lastName": "DI MARIA",
+                "mail": "lola.di-maria@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Volontaire",
+                "birthDate": "2007-06-29T00:00:00",
+                "picture": {
+                    "id": "aa07f823-0201-4040-be6f-60c36cd6f689",
+                    "name": "IMG_2498.jpeg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46197/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46098,
+                "name": "Fanny DIE",
+                "firstName": "Fanny",
+                "lastName": "DIE",
+                "mail": "fanny.die@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Coordinatrice du programme MA1SON et mobilisation des bénévoles",
+                "birthDate": "1997-04-02T00:00:00",
+                "picture": {
+                    "id": "e10c18c6-de66-433c-93ab-6da3361a5750",
+                    "name": "IMG_9884-Avec accentuation-Bruit 2 (1).jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46098/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46151,
+                "name": "Rima DJADEL",
+                "firstName": "Rima",
+                "lastName": "DJADEL",
+                "mail": "rima.djadel@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Volontaire",
+                "birthDate": "2006-11-04T00:00:00",
+                "picture": {
+                    "id": "a8025602-293f-4341-a0e7-da3228b65b71",
+                    "name": "IMG_8843.jpeg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46151/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45714,
+                "name": "Maryline DOMBEY-MANDABA",
+                "firstName": "Maryline",
+                "lastName": "DOMBEY-MANDABA",
+                "mail": "maryline.dombey@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Chargée Administration RH",
+                "birthDate": "1997-08-01T00:00:00",
+                "picture": {
+                    "id": "ea8940a6-4266-4ae3-b4a0-b4e8115fcd8f",
+                    "name": "Snapchat-1104366075.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45714/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46095,
+                "name": "Steve DOS SANTOS CARVALHO",
+                "firstName": "Steve",
+                "lastName": "DOS SANTOS CARVALHO",
+                "mail": "steve.carvalho@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Data Analyste",
+                "birthDate": "1985-09-12T00:00:00",
+                "picture": {
+                    "id": "58180a0a-95d7-42f8-b24e-6b32e8ac17d9",
+                    "name": "5767a2d3-7dfd-4edf-b712-91615972f2fb(2).JPG",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46095/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46165,
+                "name": "Noélyse DREAN",
+                "firstName": "Noélyse",
+                "lastName": "DREAN",
+                "mail": "noelyse.drean@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Chargée de déploiement pôle étudiants",
+                "birthDate": "2001-08-03T00:00:00",
+                "picture": {
+                    "id": "e13e9a2b-7892-4612-b5fe-28342a2ff4f6",
+                    "name": "486489314_4024673127800743_1687689608074553645_n.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46165/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46112,
+                "name": "François DUBUISSEZ",
+                "firstName": "François",
+                "lastName": "DUBUISSEZ",
+                "mail": "francois.dubuissez@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Mécénat de compétences",
+                "birthDate": "1973-04-22T00:00:00",
+                "picture": {
+                    "id": "489dffeb-a20d-4e15-a838-d104cedafa7b",
+                    "name": "20241030_170225.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46112/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45731,
+                "name": "Agnès DUFOUR",
+                "firstName": "Agnès",
+                "lastName": "DUFOUR",
+                "mail": "agnes.dufour@article-1.eu",
+                "professionalMobile": "06 27 72 70 29",
+                "jobTitle": "Coordinatrice mentorat",
+                "birthDate": "1985-04-16T00:00:00",
+                "picture": {
+                    "id": "9d47c4a1-5518-4b91-ac72-862a1501cbe0",
+                    "name": "20210715_135509~2.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45731/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45671,
+                "name": "Alexia DUGENY",
+                "firstName": "Alexia",
+                "lastName": "DUGENY",
+                "mail": "alexia.dugeny@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Directrice Digital",
+                "birthDate": "1986-11-22T00:00:00",
+                "picture": {
+                    "id": "82864b57-f8ba-4eef-83b5-ae0704133eea",
+                    "name": "0.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45671/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46000,
+                "name": "Késia DUPIL",
+                "firstName": "Késia",
+                "lastName": "DUPIL",
+                "mail": "kesia.dupil@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Chargée de déploiement ateliers en lycées et Mentorat",
+                "birthDate": "1998-10-23T00:00:00",
+                "picture": {
+                    "id": "5a58cc13-fb2e-4f23-b9ec-d5a51c097376",
+                    "name": "IMG_2961.jpeg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46000/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46163,
+                "name": "Flavie DUPIN",
+                "firstName": "Flavie",
+                "lastName": "DUPIN",
+                "mail": "flavie.dupin@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Chargée de déploiement pôle étudiants",
+                "birthDate": "1996-06-16T00:00:00",
+                "picture": {
+                    "id": "ea6a7fa6-b9eb-4ea9-b500-8459be7eebd5",
+                    "name": "DSC05433.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46163/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45994,
+                "name": "Lou DUPUIS",
+                "firstName": "Lou",
+                "lastName": "DUPUIS",
+                "mail": "lou.dupuis@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Chargée de déploiement pôle étudiants",
+                "birthDate": "2000-02-11T00:00:00",
+                "picture": {
+                    "id": "4dfc342f-a12b-42d7-93b9-59c383d008ed",
+                    "name": "109.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45994/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46067,
+                "name": "Caroline DUQUENOY DEGREMONT",
+                "firstName": "Caroline",
+                "lastName": "DUQUENOY DEGREMONT",
+                "mail": "caroline.duquenoy@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Mécénat de compétences",
+                "birthDate": null,
+                "picture": {
+                    "id": "14ef7a08-2df0-457f-9748-47c1ca749703",
+                    "name": "photo.png",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46067/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46053,
+                "name": "Emilie DURET",
+                "firstName": "Emilie",
+                "lastName": "DURET",
+                "mail": "emilie.duret@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Chargée de projet scolaire et suivi des lycéens (2nde/1ère)",
+                "birthDate": "1999-04-10T00:00:00",
+                "picture": {
+                    "id": "e8c7bf60-8d2b-4575-a0d3-ecb12a963538",
+                    "name": "IMG_0520.JPEG",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46053/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46121,
+                "name": "Jade DUTREY",
+                "firstName": "Jade",
+                "lastName": "DUTREY",
+                "mail": "jade.dutrey@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Chargée de déploiement Mentorat et Inspire ",
+                "birthDate": "2000-04-09T00:00:00",
+                "picture": {
+                    "id": "00c4d0dc-03f5-470a-967b-4effb71c3b60",
+                    "name": "IMG_3085.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46121/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46206,
+                "name": "Nathalie ESCHENASY",
+                "firstName": "Nathalie",
+                "lastName": "ESCHENASY",
+                "mail": "nathalie.eschenasy@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Coordinatrice évènementiel et insertion professionnelle",
+                "birthDate": "1989-08-26T00:00:00",
+                "picture": {
+                    "id": "56f1da46-a99a-45d0-84e0-c7be25685147",
+                    "name": "IMG_1112.PNG",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46206/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46169,
+                "name": "Lilou FAIVRE",
+                "firstName": "Lilou",
+                "lastName": "FAIVRE",
+                "mail": "lilou.faivre@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Volontaire",
+                "birthDate": "2005-10-15T00:00:00",
+                "picture": {
+                    "id": "21aaf02a-5283-4eb7-9657-b8abc2ad5f63",
+                    "name": "IMG_0897.jpeg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46169/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46161,
+                "name": "Anissa FATMI",
+                "firstName": "Anissa",
+                "lastName": "FATMI",
+                "mail": "anissa.fatmi@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Apprentie",
+                "birthDate": "2002-10-20T00:00:00",
+                "picture": {
+                    "id": "3d17e6bc-ecf5-4e46-a2f6-25ee48502ee1",
+                    "name": "IMG_2910.jpeg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46161/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46124,
+                "name": "Francesca FIET",
+                "firstName": "Francesca",
+                "lastName": "FIET",
+                "mail": "francesca.fiet@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Coordinatrice partenariats privés",
+                "birthDate": "1997-12-08T00:00:00",
+                "picture": {
+                    "id": "75a38e04-f488-4622-afd9-770646e4014b",
+                    "name": "PP.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46124/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45846,
+                "name": "Anaïs FLIPON",
+                "firstName": "Anaïs",
+                "lastName": "FLIPON",
+                "mail": "anais.flipon@article-1.eu",
+                "professionalMobile": "0623448668",
+                "jobTitle": " Coordinatrice pôle lycéens",
+                "birthDate": "1997-02-11T00:00:00",
+                "picture": {
+                    "id": "0ff23d64-fd61-4c16-8bea-f111b957fd03",
+                    "name": "Photo Anaïs.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45846/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45764,
+                "name": "Louis FONTANIER",
+                "firstName": "Louis",
+                "lastName": "FONTANIER",
+                "mail": "louis.fontanier@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Chef de projet Mentorat",
+                "birthDate": "1994-04-30T00:00:00",
+                "picture": {
+                    "id": "90017cb8-425c-4f5e-b83a-79ec0ccdc614",
+                    "name": "louis 2.JPG",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45764/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46134,
+                "name": "Nina FORDE",
+                "firstName": "Nina",
+                "lastName": "FORDE",
+                "mail": "nina.forde@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Ingénieure Machine Learning & Data Platform",
+                "birthDate": "2001-06-06T00:00:00",
+                "picture": {
+                    "id": "b10e310a-c06d-4504-98b2-d020e3414e2c",
+                    "name": "1708100309039.jpeg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46134/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46155,
+                "name": "Nina FOUILLET",
+                "firstName": "Nina",
+                "lastName": "FOUILLET",
+                "mail": "nina.fouillet@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Chargée de déploiement pôle lycéens ",
+                "birthDate": "2001-02-18T00:00:00",
+                "picture": {
+                    "id": "57276135-138f-4f04-bf4b-9f82f5ac0184",
+                    "name": "IMG_0627.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46155/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46183,
+                "name": "Maëlle GABLIN",
+                "firstName": "Maëlle",
+                "lastName": "GABLIN",
+                "mail": "maelle.gablin@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Coordinatrice du déploiement",
+                "birthDate": "1999-11-26T00:00:00",
+                "picture": {
+                    "id": "c117683c-ff85-4d67-849e-2e76e03da775",
+                    "name": "20250627_090153.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46183/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45651,
+                "name": "Victoria GAILLET",
+                "firstName": "Victoria",
+                "lastName": "GAILLET",
+                "mail": "victoria.gaillet@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Coordinatrice Mentorat",
+                "birthDate": "1993-09-30T00:00:00",
+                "picture": {
+                    "id": "a47abf90-52b4-4c67-b4fe-c605ba91b08d",
+                    "name": "FB_IMG_1575284843798.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45651/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45734,
+                "name": "Matthieu GEORGEAULT",
+                "firstName": "Matthieu",
+                "lastName": "GEORGEAULT",
+                "mail": "matthieu.georgeault@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Chef de projet déploiement et qualité",
+                "birthDate": "1991-11-07T00:00:00",
+                "picture": {
+                    "id": "f345ce5b-ee18-4e5c-93f1-7f0537fcb105",
+                    "name": "index.png",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45734/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45945,
+                "name": "Olivier GESLIN",
+                "firstName": "Olivier",
+                "lastName": "GESLIN",
+                "mail": "olivier.geslin@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Coordinateur du développement et des partenariats",
+                "birthDate": "1970-10-10T00:00:00",
+                "picture": {
+                    "id": "f3205d3b-ad0a-4ca6-aec9-57c19cf1f018",
+                    "name": "portrait olivier Geslin.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45945/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45612,
+                "name": "Christelle GINAPE",
+                "firstName": "Christelle",
+                "lastName": "GINAPE",
+                "mail": "christelle.ginape@article-1.eu",
+                "professionalMobile": "06 18 51 55 87",
+                "jobTitle": "Directrice du développement",
+                "birthDate": "1988-09-12T00:00:00",
+                "picture": {
+                    "id": "85e16675-8b9e-45da-b39c-899292db1112",
+                    "name": "christelle-poglio-300x300.png",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45612/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46022,
+                "name": "Cléa GLAIN",
+                "firstName": "Cléa",
+                "lastName": "GLAIN",
+                "mail": "clea.glain@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Chargée de déploiement ateliers en lycée et Mentorat  ",
+                "birthDate": "1998-05-17T00:00:00",
+                "picture": {
+                    "id": "73e17b1e-4409-42c1-be5e-63d30a4c4492",
+                    "name": "article1-2025--862.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46022/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46130,
+                "name": "Juliette GROS",
+                "firstName": "Juliette",
+                "lastName": "GROS",
+                "mail": "juliette.gros@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Cheffe de projets partenariats privés",
+                "birthDate": "1996-05-18T00:00:00",
+                "picture": {
+                    "id": "4a6be978-557d-4835-94d4-3f75a861342f",
+                    "name": "Capture d’écran 2025-06-27 à 09.37.15.png",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46130/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46201,
+                "name": "Alice GRUERE",
+                "firstName": "Alice",
+                "lastName": "GRUERE",
+                "mail": "alice.gruere@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Volontaire",
+                "birthDate": "2003-01-29T00:00:00",
+                "picture": {
+                    "id": "b35e3c5b-0b25-4a00-bcc4-191d70fcc82e",
+                    "name": "tempImageIm5z3X.png",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46201/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45781,
+                "name": "Noémie GUERIN",
+                "firstName": "Noémie",
+                "lastName": "GUERIN",
+                "mail": "noemie.guerin@article-1.eu",
+                "professionalMobile": "07.78.20.72.35",
+                "jobTitle": "Responsable Communication",
+                "birthDate": "1989-08-08T00:00:00",
+                "picture": {
+                    "id": "2a79a6e8-0a6e-4597-ad11-b1b284a56062",
+                    "name": "IMG_9594.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45781/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46042,
+                "name": "Claire GUIRAGOSSIAN",
+                "firstName": "Claire",
+                "lastName": "GUIRAGOSSIAN",
+                "mail": "claire.guiragossian@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Chargée de déploiement ateliers en lycée et Mentorat ",
+                "birthDate": "1994-06-22T00:00:00",
+                "picture": {
+                    "id": "5409b09b-5a78-4485-a0ad-93df83adee72",
+                    "name": "IMG_0344.JPG",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46042/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46078,
+                "name": "Hajar HAILAF",
+                "firstName": "Hajar",
+                "lastName": "HAILAF",
+                "mail": "hajar.hailaf@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Apprentie",
+                "birthDate": "2000-01-29T00:00:00",
+                "picture": {
+                    "id": "685c7032-e142-4153-891e-393917dcac1b",
+                    "name": "IMG_5678.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46078/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45992,
+                "name": "Amel HAMMOUDA",
+                "firstName": "Amel",
+                "lastName": "HAMMOUDA",
+                "mail": "amel.hammouda@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Directrice Générale",
+                "birthDate": "1977-03-15T00:00:00",
+                "picture": {
+                    "id": "0176e8e9-5da8-44f2-9365-4a0e6f576cfe",
+                    "name": "IMG_0017.jpeg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45992/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45921,
+                "name": "Hajar HARZI",
+                "firstName": "Hajar",
+                "lastName": "HARZI",
+                "mail": "hajar.harzi@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Chargée de déploiement pôle lycéens et étudiants",
+                "birthDate": "1994-02-06T00:00:00",
+                "picture": {
+                    "id": "0247a703-60a6-48d9-abd8-6ea5446a51e4",
+                    "name": "IMG_20240209_094142.png",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45921/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46214,
+                "name": "Mariam HENEIN",
+                "firstName": "Mariam",
+                "lastName": "HENEIN",
+                "mail": "mariam.henein@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Volontaire",
+                "birthDate": "2002-11-05T00:00:00",
+                "picture": null
+            },
+            {
+                "id": 45892,
+                "name": "Chei-Line HENG",
+                "firstName": "Chei-Line",
+                "lastName": "HENG",
+                "mail": "chei-line.heng@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Responsable des relations entreprises",
+                "birthDate": "1984-03-04T00:00:00",
+                "picture": {
+                    "id": "6ad83f69-213e-4cc3-a2cb-5470b9176410",
+                    "name": "Photo CLH.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45892/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46039,
+                "name": "Cécile HERAIL-PATRIAT",
+                "firstName": "Cécile",
+                "lastName": "HERAIL-PATRIAT",
+                "mail": "cecile.herail-patriat@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Chargée de déploiement pôle étudiants",
+                "birthDate": "1994-10-01T00:00:00",
+                "picture": {
+                    "id": "43198e8f-2ffd-4434-bc85-cce20e225110",
+                    "name": "20211014_143655.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46039/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46203,
+                "name": "Fabien HERNANDEZ",
+                "firstName": "Fabien",
+                "lastName": "HERNANDEZ",
+                "mail": "fabien.hernandez@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Mécénat de compétences",
+                "birthDate": "1968-04-11T00:00:00",
+                "picture": {
+                    "id": "365fa27e-acb8-4a68-bc5e-7a46054e0ec6",
+                    "name": "Photo Fabien Hernandez.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46203/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46027,
+                "name": "Fatima HIM",
+                "firstName": "Fatima",
+                "lastName": "HIM",
+                "mail": "fatima.him@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": " Chargée de déploiement pôle étudiants",
+                "birthDate": "1997-03-08T00:00:00",
+                "picture": {
+                    "id": "83331998-d650-47d3-b5f7-2675eec714ca",
+                    "name": "Fatima.JPG",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46027/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46181,
+                "name": "Lilia HOUIDEG",
+                "firstName": "Lilia",
+                "lastName": "HOUIDEG",
+                "mail": "lilia.houideg@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Volontaire",
+                "birthDate": "2001-11-17T00:00:00",
+                "picture": {
+                    "id": "e2020b09-c4ab-4b28-b1c2-6c4fb90ef982",
+                    "name": "1000019033.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46181/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46170,
+                "name": "Emma HUET",
+                "firstName": "Emma",
+                "lastName": "HUET",
+                "mail": "emma.huet@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Cheffe de projet fundraising",
+                "birthDate": "1998-07-11T00:00:00",
+                "picture": {
+                    "id": "9085bbd5-e7ed-4a7a-97b2-28eaa7028075",
+                    "name": "IMG_3125.png",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46170/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46213,
+                "name": "Pénélope HUET",
+                "firstName": "Pénélope",
+                "lastName": "HUET",
+                "mail": "penelope.huet@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Coordinatrice Développement RH",
+                "birthDate": "1998-08-16T00:00:00",
+                "picture": {
+                    "id": "65907daf-6190-414e-9a24-f09e3a4a2d02",
+                    "name": "Photo linkedin.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46213/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46035,
+                "name": "Sofia HULLOT-GUIOT",
+                "firstName": "Sofia",
+                "lastName": "HULLOT-GUIOT",
+                "mail": "sofia.hullot@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Coordinatrice pédagogique Post-Bac",
+                "birthDate": "1987-03-24T00:00:00",
+                "picture": {
+                    "id": "38ba81c2-ef75-4dd5-8015-f43e7e13b67b",
+                    "name": "Photo CV.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46035/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46171,
+                "name": "Carla IBAR",
+                "firstName": "Carla",
+                "lastName": "IBAR",
+                "mail": "carla.ibar@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Chargée des actions d'insertion professionnelle",
+                "birthDate": "2001-06-13T00:00:00",
+                "picture": {
+                    "id": "65f9f0ae-5dc0-41c3-8321-2d4847067098",
+                    "name": "IMG_4798.png",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46171/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45866,
+                "name": "Amandine JACQ",
+                "firstName": "Amandine",
+                "lastName": "JACQ",
+                "mail": "amandine.jacq@article-1.eu",
+                "professionalMobile": "0612144188",
+                "jobTitle": "Cheffe de projet Mentorat vers le sup'",
+                "birthDate": "1990-06-29T00:00:00",
+                "picture": {
+                    "id": "d2d86946-73f6-4ea2-a039-790806b381cd",
+                    "name": "photo AJ_2025.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45866/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45807,
+                "name": "Pénélope JAULIN",
+                "firstName": "Pénélope",
+                "lastName": "JAULIN",
+                "mail": "penelope.jaulin@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Coordinatrice Mentorat étudiants",
+                "birthDate": "1997-02-27T00:00:00",
+                "picture": {
+                    "id": "8a3e3de1-e4e0-4d05-903a-a7769c8ca477",
+                    "name": "photo CV.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45807/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45839,
+                "name": "Théo JEGO",
+                "firstName": "Théo",
+                "lastName": "JEGO",
+                "mail": "theo.jego@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": " Chef de projet Expérience Bénévoles",
+                "birthDate": "1998-08-17T00:00:00",
+                "picture": {
+                    "id": "40990712-4478-4954-8596-a278aa47afb1",
+                    "name": "Photo de profil.png",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45839/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46094,
+                "name": "Antoine JOCHYMS",
+                "firstName": "Antoine",
+                "lastName": "JOCHYMS",
+                "mail": "antoine.jochyms@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Chef de projet affaires publiques, relations institutionnelles et plaidoyer",
+                "birthDate": "1997-03-20T00:00:00",
+                "picture": {
+                    "id": "12b86e54-9773-41c2-9208-83161f3e30d7",
+                    "name": "Capture d’écran 2024-10-24 à 14.38.51.png",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46094/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45915,
+                "name": "Mélodie JOUBERTON",
+                "firstName": "Mélodie",
+                "lastName": "JOUBERTON",
+                "mail": "melodie.jouberton@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Chargée de déploiement Mentorat et Insertion professionnelle",
+                "birthDate": "1997-09-06T00:00:00",
+                "picture": {
+                    "id": "4e9c60d8-5604-4d12-9b10-2a1b326e81c5",
+                    "name": "Design sans titre.png",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45915/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46129,
+                "name": "Florian JOUFFLINEAU",
+                "firstName": "Florian",
+                "lastName": "JOUFFLINEAU",
+                "mail": "florian.joufflineau@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Responsable du pôle étudiants",
+                "birthDate": "1990-06-28T00:00:00",
+                "picture": {
+                    "id": "8f15309c-323b-4dd8-9231-2804b684cc51",
+                    "name": "Photo FJ.jpeg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46129/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46071,
+                "name": "Fatoumata KEITA",
+                "firstName": "Fatoumata",
+                "lastName": "KEITA",
+                "mail": "fatoumata.keita@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Comptable",
+                "birthDate": "2002-05-18T00:00:00",
+                "picture": {
+                    "id": "91fa2c57-d8d4-40ee-8812-e6bfe74f77d3",
+                    "name": "IMG_3112.jpeg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46071/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46159,
+                "name": "Léa KERLOGOT",
+                "firstName": "Léa",
+                "lastName": "KERLOGOT",
+                "mail": "lea.kerlogot@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Volontaire",
+                "birthDate": "2005-02-14T00:00:00",
+                "picture": {
+                    "id": "350d6458-43a9-42e1-84e3-357f996a7656",
+                    "name": "1000000507.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46159/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45946,
+                "name": "Benoît LANDAU",
+                "firstName": "Benoît",
+                "lastName": "LANDAU",
+                "mail": "benoit.landau@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": " Directeur des programmes",
+                "birthDate": "1983-02-16T00:00:00",
+                "picture": {
+                    "id": "a549c2bb-4af6-4898-856c-8206b1cd9a5e",
+                    "name": "BL ter.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45946/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46168,
+                "name": "Emma LE DUC",
+                "firstName": "Emma",
+                "lastName": "LE DUC",
+                "mail": "emma.le-duc@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Chargée de déploiement et Référente du programme MA1SON ",
+                "birthDate": "1999-07-16T00:00:00",
+                "picture": {
+                    "id": "a429e663-2000-4b79-9d26-12119b603523",
+                    "name": "IMG_0123.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46168/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45808,
+                "name": "Théo LE NEURES",
+                "firstName": "Théo",
+                "lastName": "LE NEURES",
+                "mail": "theo.le-neures@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Coordinateur Insertion Professionnelle",
+                "birthDate": "1994-03-05T00:00:00",
+                "picture": {
+                    "id": "61f47454-300b-4bac-8c01-432740407d4b",
+                    "name": "Photo profil.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45808/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46143,
+                "name": "Manon LECESNE",
+                "firstName": "Manon",
+                "lastName": "LECESNE",
+                "mail": "manon.lecesne@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Volontaire",
+                "birthDate": "2003-12-26T00:00:00",
+                "picture": {
+                    "id": "807790ba-d7b5-42ed-be16-65ec7813bf50",
+                    "name": "IMG_9702.jpeg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46143/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45766,
+                "name": "Julien LECOEUR",
+                "firstName": "Julien",
+                "lastName": "LECOEUR",
+                "mail": "julien.lecoeur@article-1.eu",
+                "professionalMobile": "06 27 72 24 88",
+                "jobTitle": "Responsable régional Normandie",
+                "birthDate": "1985-03-09T00:00:00",
+                "picture": {
+                    "id": "e52341c9-fa82-4bce-8b94-91061d69c21b",
+                    "name": "JL profil.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45766/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46210,
+                "name": "Diana LEGRAN",
+                "firstName": "Diana",
+                "lastName": "LEGRAN",
+                "mail": "diana.legran@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Stagiaire",
+                "birthDate": "1998-06-24T00:00:00",
+                "picture": {
+                    "id": "5f0decff-e281-4324-8852-0e065c780736",
+                    "name": "photo_2025-04-04_18-02-16.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46210/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46050,
+                "name": "Théo LEMAIRE",
+                "firstName": "Théo",
+                "lastName": "LEMAIRE",
+                "mail": "theo.lemaire@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Chargé de déploiement Mentorat et Mentorat vers le Sup",
+                "birthDate": "2000-03-08T00:00:00",
+                "picture": {
+                    "id": "3cf7356c-9a43-4368-9e16-3c4d11d02f73",
+                    "name": "IMG_4828.jpeg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46050/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45999,
+                "name": "Juliette LENOIR",
+                "firstName": "Juliette",
+                "lastName": "LENOIR",
+                "mail": "juliette.lenoir@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Chargée de déploiement et référente académique",
+                "birthDate": "1994-04-18T00:00:00",
+                "picture": {
+                    "id": "6e63e991-f631-423d-9278-4f90d6dfba28",
+                    "name": "WhatsApp Image 2020-06-29 at 17.42.24.jpeg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45999/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45631,
+                "name": "Fernanda Maria LESAGE",
+                "firstName": "Fernanda Maria",
+                "lastName": "LESAGE",
+                "mail": "fernanda.lesage@article-1.eu",
+                "professionalMobile": "06 22 45 97 50",
+                "jobTitle": "Chargée de comptabilité",
+                "birthDate": "1968-08-29T00:00:00",
+                "picture": {
+                    "id": "8c6b52aa-02a2-4b4b-88d0-ba33624348ac",
+                    "name": "FLESAGE.JPG",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45631/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45760,
+                "name": "Ambre LETHIER",
+                "firstName": "Ambre",
+                "lastName": "LETHIER",
+                "mail": "ambre.lethier@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Cheffe de projet évènementiel et animation de communauté - étudiants",
+                "birthDate": "1994-05-11T00:00:00",
+                "picture": {
+                    "id": "fb93fc3b-d1d9-4bbe-acf7-d241008291ee",
+                    "name": "B8669C77-3581-4522-8A21-B716434B022C.jpeg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45760/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45952,
+                "name": "Alexandra LEVY",
+                "firstName": "Alexandra",
+                "lastName": "LEVY",
+                "mail": "alexandra.levy@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Directrice Administration et Finances",
+                "birthDate": "1987-03-31T00:00:00",
+                "picture": {
+                    "id": "d57a7460-0f79-4c02-a1a8-294680887858",
+                    "name": "1517073334800.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45952/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45841,
+                "name": "Alizée LORIDAN",
+                "firstName": "Alizée",
+                "lastName": "LORIDAN",
+                "mail": "alizee.loridan@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Coordinatrice des actions étudiantes",
+                "birthDate": "1994-08-25T00:00:00",
+                "picture": {
+                    "id": "600f82df-42e7-47ab-b571-c1368589c04d",
+                    "name": "2-alizeeIMG_0041-2.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45841/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46196,
+                "name": "Manelle MAHIOUT",
+                "firstName": "Manelle",
+                "lastName": "MAHIOUT",
+                "mail": "manelle.mahiout@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Volontaire",
+                "birthDate": "2002-05-12T00:00:00",
+                "picture": {
+                    "id": "3cca3a92-3c84-4497-b90d-145868625510",
+                    "name": "IMG_9411.jpeg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46196/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45641,
+                "name": "Nastya MAKOUKE",
+                "firstName": "Nastya",
+                "lastName": "MAKOUKE",
+                "mail": "nastya.makouke@article-1.eu",
+                "professionalMobile": "06 62 65 23 11",
+                "jobTitle": "Directrice Adjointe aux Territoires et Responsable Régionale PACA",
+                "birthDate": "1991-05-15T00:00:00",
+                "picture": {
+                    "id": "562f06a6-e03c-4ac9-9b37-16653e8a361a",
+                    "name": "Nastya-color.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45641/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46184,
+                "name": "Jade MASSE",
+                "firstName": "Jade",
+                "lastName": "MASSE",
+                "mail": "jade.masse@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Volontaire",
+                "birthDate": "2004-12-13T00:00:00",
+                "picture": {
+                    "id": "82b86b1c-5671-4f4a-92e5-a8aeef3647bd",
+                    "name": "Photo de profil JM.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46184/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46205,
+                "name": "Frédéric MASSON",
+                "firstName": "Frédéric",
+                "lastName": "MASSON",
+                "mail": "frederic.masson@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Mécénat de compétences",
+                "birthDate": "1962-01-30T00:00:00",
+                "picture": {
+                    "id": "6ae79dd5-d891-49b4-ac9a-5bf042f6c09b",
+                    "name": "IMG_20250324_135103.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46205/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45821,
+                "name": "Lauriane MASSONI",
+                "firstName": "Lauriane",
+                "lastName": "MASSONI",
+                "mail": "lauriane.massoni@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Social Media Manager",
+                "birthDate": "1991-09-27T00:00:00",
+                "picture": {
+                    "id": "fe83a630-f999-4473-a46e-d80277b86d13",
+                    "name": "1610551890765.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45821/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45788,
+                "name": "Julie MAZIERE",
+                "firstName": "Julie",
+                "lastName": "MAZIERE",
+                "mail": "julie.maziere@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Cheffe de projet Partenariats et projets transverses",
+                "birthDate": "1997-05-22T00:00:00",
+                "picture": {
+                    "id": "6995bac8-24af-487f-985f-9b88672afa26",
+                    "name": "photo portrait Mazière J.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45788/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45748,
+                "name": "Mebarka MEHENNI",
+                "firstName": "Mebarka",
+                "lastName": "MEHENNI",
+                "mail": "mebarka.mehenni@article-1.eu",
+                "professionalMobile": "0616818815",
+                "jobTitle": "Chargée de déploiement 1A1 Aura",
+                "birthDate": "1997-07-13T00:00:00",
+                "picture": {
+                    "id": "62650785-91a2-4c04-9c9c-09a8bf24e697",
+                    "name": "received_403271158175901.jpeg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45748/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45722,
+                "name": "Daphné MELEZE",
+                "firstName": "Daphné",
+                "lastName": "MELEZE",
+                "mail": "daphne.meleze@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Marketing et Brand Manager",
+                "birthDate": "1993-06-12T00:00:00",
+                "picture": {
+                    "id": "3eb236f0-e312-44df-bf12-72170d5fe3a4",
+                    "name": "IMG_20190701_155000.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45722/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46207,
+                "name": "Miriam MELIANI",
+                "firstName": "Miriam",
+                "lastName": "MELIANI",
+                "mail": "miriam.meliani@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Volontaire ",
+                "birthDate": "2004-08-27T00:00:00",
+                "picture": {
+                    "id": "7cbafe8a-5530-48c2-af2f-85fa57a72b4a",
+                    "name": "IMG_9109.jpeg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46207/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46135,
+                "name": "Youna MENARD",
+                "firstName": "Youna",
+                "lastName": "MENARD",
+                "mail": "youna.menard@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Apprentie",
+                "birthDate": "2005-09-09T00:00:00",
+                "picture": {
+                    "id": "76b8788b-7fbf-473b-9c0a-cf910e9d8d73",
+                    "name": "WhatsApp Image 2024-09-24 à 21.12.15_813b49a9.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46135/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45931,
+                "name": "Solène MERONO",
+                "firstName": "Solène",
+                "lastName": "MERONO",
+                "mail": "solene.merono@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Chargée de déploiement pôle lycéens",
+                "birthDate": "2000-06-11T00:00:00",
+                "picture": {
+                    "id": "7e10b490-48d1-48e9-9e79-cf70fe34548f",
+                    "name": "image_50389249.JPG",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45931/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45965,
+                "name": "Thaïs MERSANT",
+                "firstName": "Thaïs",
+                "lastName": "MERSANT",
+                "mail": "thais.mersant@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Chargée des partenariats et de la mobilisation des communautés",
+                "birthDate": "1997-04-09T00:00:00",
+                "picture": {
+                    "id": "c096bea5-1777-4fcd-9fac-645e43d57b7f",
+                    "name": "IMG_2282.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45965/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46166,
+                "name": "Safa MESSEOUDI",
+                "firstName": "Safa",
+                "lastName": "MESSEOUDI",
+                "mail": "safa.messeoudi@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Apprentie",
+                "birthDate": "2000-06-19T00:00:00",
+                "picture": {
+                    "id": "b4274c5f-aeba-47a4-b3d9-a23c14bce957",
+                    "name": "photo linkedin.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46166/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46202,
+                "name": "Indya METAYER",
+                "firstName": "Indya",
+                "lastName": "METAYER",
+                "mail": "indya.metayer@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Volontaire",
+                "birthDate": "2004-09-28T00:00:00",
+                "picture": {
+                    "id": "a8c41974-4205-4ffd-8a29-07b03b80f19f",
+                    "name": "Photo (1).jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46202/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45881,
+                "name": "Marjorie MICHEL",
+                "firstName": "Marjorie",
+                "lastName": "MICHEL",
+                "mail": "marjorie.michel@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Responsable régionale Grand Est",
+                "birthDate": "1985-12-05T00:00:00",
+                "picture": {
+                    "id": "e24173fc-a4ac-49b9-a57b-1029d9ad212a",
+                    "name": "IMG_9107.JPG",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45881/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46157,
+                "name": "Laura MICHELIN",
+                "firstName": "Laura",
+                "lastName": "MICHELIN",
+                "mail": "laura.michelin@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Chargée de déploiement pôle lycéens",
+                "birthDate": "2000-03-13T00:00:00",
+                "picture": {
+                    "id": "78567ee0-3cc9-4584-afac-d5d45062b928",
+                    "name": "27.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46157/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45840,
+                "name": "Nabilata MOHAMED",
+                "firstName": "Nabilata",
+                "lastName": "MOHAMED",
+                "mail": "nabilata.mohamed@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Chargée de déploiement ateliers dans le Sup'",
+                "birthDate": "2000-12-24T00:00:00",
+                "picture": {
+                    "id": "2c4921c2-5756-4cfc-81a1-4d0822ddc5ea",
+                    "name": "20250521_124939.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45840/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46152,
+                "name": "Candice MOREAU",
+                "firstName": "Candice",
+                "lastName": "MOREAU",
+                "mail": "candice.moreau@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Volontaire",
+                "birthDate": "2004-03-26T00:00:00",
+                "picture": {
+                    "id": "9db4c4e9-33a0-403e-a483-3e3335b4ffac",
+                    "name": "IMG_2024_08_19-13_57_43_2510_B9D837DF.jpeg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46152/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46190,
+                "name": "Magalie MOREL",
+                "firstName": "Magalie",
+                "lastName": "MOREL",
+                "mail": "magalie.morel@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Chargée de projet Logistique",
+                "birthDate": "2002-07-29T00:00:00",
+                "picture": {
+                    "id": "4f6f2171-62a5-412e-ad58-6106b6bcfdad",
+                    "name": "IMG_6837 (1).JPG",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46190/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45871,
+                "name": "Nadine MOREL",
+                "firstName": "Nadine",
+                "lastName": "MOREL",
+                "mail": "nadine.morel@article-1.eu",
+                "professionalMobile": "0611278982",
+                "jobTitle": "Responsable Développement RH",
+                "birthDate": "1966-05-18T00:00:00",
+                "picture": {
+                    "id": "f1a8eedf-289f-4acb-b84d-d50d9a77f7e1",
+                    "name": "PHOTO NMO.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45871/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46119,
+                "name": "Goli MOUSSAVI",
+                "firstName": "Goli",
+                "lastName": "MOUSSAVI",
+                "mail": "goli.moussavi@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Responsable Régionale IDF",
+                "birthDate": "1992-04-16T00:00:00",
+                "picture": {
+                    "id": "47270f72-a77f-4d77-9a87-41c38e32ec28",
+                    "name": "DSC_3716 (1).jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46119/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45854,
+                "name": "Estellia MOUTOU",
+                "firstName": "Estellia",
+                "lastName": "MOUTOU",
+                "mail": "estellia.moutou@article-1.eu",
+                "professionalMobile": "0693540384",
+                "jobTitle": "Responsable Régionale Réunion et Mayotte",
+                "birthDate": "1992-11-09T00:00:00",
+                "picture": {
+                    "id": "eac02dfb-7510-409f-9537-d56518ff4166",
+                    "name": "Estellia Moutou.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45854/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46162,
+                "name": "Camille MULLER-KOËFF",
+                "firstName": "Camille",
+                "lastName": "MULLER-KOËFF",
+                "mail": "camille.muller-koeff@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Apprentie",
+                "birthDate": "2004-08-09T00:00:00",
+                "picture": {
+                    "id": "7d8e849b-6c8f-4a3a-b4f0-ca2aa371418f",
+                    "name": "Capture d_écran 2025-07-31 102511.png",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46162/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45640,
+                "name": "Justine NINNIN",
+                "firstName": "Justine",
+                "lastName": "NINNIN",
+                "mail": "justine.ninnin@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Responsable du pôle lycées et Responsable de l'expérience pédagogique",
+                "birthDate": "1987-09-12T00:00:00",
+                "picture": {
+                    "id": "19693675-5ba8-4099-9f1a-b7196beeb55e",
+                    "name": "DSC04700 6 (1).jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45640/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45884,
+                "name": "Elsa OLIVEIRA",
+                "firstName": "Elsa",
+                "lastName": "OLIVEIRA",
+                "mail": "elsa.oliveira@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Responsable Fundraising",
+                "birthDate": "1983-06-04T00:00:00",
+                "picture": {
+                    "id": "86975870-5a60-43bc-893f-8b0816d6bc70",
+                    "name": "Screenshot 2023-01-26 10.30.15.png",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45884/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45767,
+                "name": "Siurana OLIVERES",
+                "firstName": "Siurana",
+                "lastName": "OLIVERES",
+                "mail": "siurana.oliveres@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Coordinatrice Mentorat",
+                "birthDate": "1996-02-27T00:00:00",
+                "picture": {
+                    "id": "f97cf693-7de6-437c-9fad-f9975292a44a",
+                    "name": "180770033_758750251501026_60884385333562554_n.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45767/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46023,
+                "name": "ISIDOR OUEDRAOGO",
+                "firstName": "ISIDOR",
+                "lastName": "OUEDRAOGO",
+                "mail": "isidor.ouedraogo@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Apprenti",
+                "birthDate": "1997-04-04T00:00:00",
+                "picture": {
+                    "id": "6702007c-412d-451b-8fb2-ba6f7360555a",
+                    "name": "20240309_175933.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46023/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45665,
+                "name": "Eleonore PADOVANI",
+                "firstName": "Eleonore",
+                "lastName": "PADOVANI",
+                "mail": "eleonore.padovani@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Responsable Développement",
+                "birthDate": "1996-01-22T00:00:00",
+                "picture": {
+                    "id": "3c8d39b6-7389-4b4e-9328-51f74b030232",
+                    "name": "unnamed.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45665/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46051,
+                "name": "David PAEZ",
+                "firstName": "David",
+                "lastName": "PAEZ",
+                "mail": "david.paez@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Directeur des territoires",
+                "birthDate": "1985-12-12T00:00:00",
+                "picture": {
+                    "id": "1864f5f1-5172-462a-99d0-b6a0a9385fb6",
+                    "name": "Photo David PAEZ.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46051/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46153,
+                "name": "Héloïse PAPAÏANNI",
+                "firstName": "Héloïse",
+                "lastName": "PAPAÏANNI",
+                "mail": "heloise.papaiani@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Volontaire",
+                "birthDate": "2003-09-13T00:00:00",
+                "picture": {
+                    "id": "9ce904aa-c5fa-4a70-b850-4cac1d6040fc",
+                    "name": "Photo de profil Héloise.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46153/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45914,
+                "name": "Fabrice PARCHET",
+                "firstName": "Fabrice",
+                "lastName": "PARCHET",
+                "mail": "fabrice.parchet@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Coordinateur de projets et partenariats",
+                "birthDate": "1991-11-06T00:00:00",
+                "picture": {
+                    "id": "43ba9746-5fde-40df-8679-811becf89868",
+                    "name": "IMG_8123.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45914/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46072,
+                "name": "Camille PASTOR",
+                "firstName": "Camille",
+                "lastName": "PASTOR",
+                "mail": "camille.pastor@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Chargée de déploiement Actions pour Lycéens",
+                "birthDate": "2000-09-24T00:00:00",
+                "picture": {
+                    "id": "f5ff1248-d487-4c27-841f-1aeccea681b2",
+                    "name": "Capture d’écran 2024-08-23 à 16.53.51.png",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46072/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46174,
+                "name": "Camille PELLETIER",
+                "firstName": "Camille",
+                "lastName": "PELLETIER",
+                "mail": "camille.pelletier@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Chargée de projet scolaire et suivi des étudiants",
+                "birthDate": "1999-08-03T00:00:00",
+                "picture": {
+                    "id": "2e4c4825-4262-4d5c-be70-e72e71fd105f",
+                    "name": "1000067982.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46174/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45972,
+                "name": "Elise PERUZZO",
+                "firstName": "Elise",
+                "lastName": "PERUZZO",
+                "mail": "elise.peruzzo@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Cheffe de projet pôle Evènementiel et parrainage",
+                "birthDate": "1987-12-11T00:00:00",
+                "picture": {
+                    "id": "03532e10-7ce2-4ff0-af09-0925f17e722d",
+                    "name": "elise.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45972/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46172,
+                "name": "Lucile PHILIPPE",
+                "firstName": "Lucile",
+                "lastName": "PHILIPPE",
+                "mail": "lucile.philippe@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Chargée de déploiement ateliers insertion professionnelle",
+                "birthDate": "1988-08-19T00:00:00",
+                "picture": {
+                    "id": "ae8d0eff-77fa-4203-b1c5-a7d607c53f70",
+                    "name": "1000076361.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46172/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45943,
+                "name": "Auria PILLET",
+                "firstName": "Auria",
+                "lastName": "PILLET",
+                "mail": "auria.pillet@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": " Coordinatrice de projets de communication",
+                "birthDate": "1995-12-19T00:00:00",
+                "picture": {
+                    "id": "b1f1c42d-c159-418d-bb8e-6a35e784fe34",
+                    "name": "Photo Identité.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45943/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46052,
+                "name": "Jessica POIGNARD",
+                "firstName": "Jessica",
+                "lastName": "POIGNARD",
+                "mail": "jessica.poignard@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Chargée de déploiement et Référente académique",
+                "birthDate": "1983-11-01T00:00:00",
+                "picture": {
+                    "id": "3a0cbe06-c984-4fb8-8eed-14f867f7b9a7",
+                    "name": "106.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46052/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46173,
+                "name": "Emma POTEAU",
+                "firstName": "Emma",
+                "lastName": "POTEAU",
+                "mail": "emma.poteau@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Chargée de déploiement pôle étudiants",
+                "birthDate": "1999-06-28T00:00:00",
+                "picture": {
+                    "id": "b7b5e3ee-82eb-4bac-aed0-0baf215f6dc5",
+                    "name": "tempImagefzetB0.png",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46173/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46093,
+                "name": "Magdalena PROVOST",
+                "firstName": "Magdalena",
+                "lastName": "PROVOST",
+                "mail": "magdalena.provost@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Coordinatrice des actions Prébac",
+                "birthDate": "1993-07-31T00:00:00",
+                "picture": {
+                    "id": "1cf6f7ff-a72e-44d5-8f4a-3481bcea543e",
+                    "name": "Photo cv.png",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46093/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46176,
+                "name": "Zoé PUYBARET",
+                "firstName": "Zoé",
+                "lastName": "PUYBARET",
+                "mail": "zoe.puybaret@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Chargée de déploiement pôles lycéens et étudiants",
+                "birthDate": "1999-05-01T00:00:00",
+                "picture": {
+                    "id": "a9244ad0-331d-48ba-9e6c-cdd8310d293e",
+                    "name": "1000039960.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46176/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45810,
+                "name": "Alan QUERE",
+                "firstName": "Alan",
+                "lastName": "QUERE",
+                "mail": "alan.quere@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Chargé de déploiement",
+                "birthDate": "1996-09-01T00:00:00",
+                "picture": {
+                    "id": "09223ad7-93e2-407c-b5b4-eeb5c017f6d4",
+                    "name": "IMG_20211026_145521.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45810/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45878,
+                "name": "Soahanitra RABENJAMINA",
+                "firstName": "Soahanitra",
+                "lastName": "RABENJAMINA",
+                "mail": "soahanitra-livaniaina.rabenjamina@article-1.eu",
+                "professionalMobile": "06 11 27 02 33",
+                "jobTitle": " Coordinatrice Suivi administratif et logistique",
+                "birthDate": "1998-06-10T00:00:00",
+                "picture": null
+            },
+            {
+                "id": 46217,
+                "name": "Ghita RECHCHACH",
+                "firstName": "Ghita",
+                "lastName": "RECHCHACH",
+                "mail": "ghita.rechchach@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Volontaire",
+                "birthDate": "2001-06-03T00:00:00",
+                "picture": {
+                    "id": "e27eb6e0-fe09-4328-b290-2f3702c1f16b",
+                    "name": "IMG_2344.jpeg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46217/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45622,
+                "name": "Orianne RIBOT",
+                "firstName": "Orianne",
+                "lastName": "RIBOT",
+                "mail": "orianne.ribot@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Responsable pôle Sup",
+                "birthDate": "1987-12-09T00:00:00",
+                "picture": {
+                    "id": "89901f99-8b2c-491b-8362-1d2d16f27bce",
+                    "name": "03_DSC5296.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45622/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46076,
+                "name": "Antoine RICHARD",
+                "firstName": "Antoine",
+                "lastName": "RICHARD",
+                "mail": "antoine.richard@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Apprenti",
+                "birthDate": "1998-12-05T00:00:00",
+                "picture": {
+                    "id": "a04be2de-5e77-47d8-9492-5c657f6092f1",
+                    "name": "PP Article 1.png",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46076/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45823,
+                "name": "Perrine ROBERT",
+                "firstName": "Perrine",
+                "lastName": "ROBERT",
+                "mail": "perrine.robert@article-1.eu",
+                "professionalMobile": "0622258200",
+                "jobTitle": "Responsable Administration des RH",
+                "birthDate": "1994-09-28T00:00:00",
+                "picture": {
+                    "id": "0e3abd7b-2c95-4c53-bf08-ceeaa07959f3",
+                    "name": "MicrosoftTeams-image (1).png",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45823/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46140,
+                "name": "Marine ROCHER",
+                "firstName": "Marine",
+                "lastName": "ROCHER",
+                "mail": "marine.rocher@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Volontaire",
+                "birthDate": "2006-02-12T00:00:00",
+                "picture": {
+                    "id": "2551e70a-94b0-4981-9cde-354a6b193660",
+                    "name": "20240228_164234.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46140/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45801,
+                "name": "Louana RONDINI",
+                "firstName": "Louana",
+                "lastName": "RONDINI",
+                "mail": "louana.rondini@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Coordinatrice Evènementiels et dispositifs d'ouverture culturelle et interculturelle",
+                "birthDate": "1991-11-26T00:00:00",
+                "picture": {
+                    "id": "ffa73d26-0345-43b6-a7a0-bd6f6c759c03",
+                    "name": "LRM_EXPORT_243782325580598_20190620_111245697.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45801/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46198,
+                "name": "Kassiny ROSINE",
+                "firstName": "Kassiny",
+                "lastName": "ROSINE",
+                "mail": "kassiny.rosine@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Volontaire",
+                "birthDate": "2003-11-28T00:00:00",
+                "picture": {
+                    "id": "02c54d1e-f419-41a2-93ff-82352448406b",
+                    "name": "CV KASSINYR_20250929_120051_0000.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46198/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45829,
+                "name": "Nadège SAHA",
+                "firstName": "Nadège",
+                "lastName": "SAHA",
+                "mail": "nadege.saha@article-1.eu",
+                "professionalMobile": "0789218556",
+                "jobTitle": "Responsable régionale Guadeloupe et Martinique",
+                "birthDate": "1986-01-21T00:00:00",
+                "picture": {
+                    "id": "11e3f444-a9f8-42d4-9819-2d8b0f834a92",
+                    "name": "19.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45829/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46167,
+                "name": "Gautier SAVIN",
+                "firstName": "Gautier",
+                "lastName": "SAVIN",
+                "mail": "gautier.savin@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Apprentie",
+                "birthDate": "2002-10-23T00:00:00",
+                "picture": {
+                    "id": "5d846bc0-368f-46ce-8aae-53aae9edf2ad",
+                    "name": "32F60EB7-F1B9-4F27-80EE-DAED52C1013F.JPG",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46167/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46141,
+                "name": "Mélina SCELLIER",
+                "firstName": "Mélina",
+                "lastName": "SCELLIER",
+                "mail": "melina.scellier@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Volontaire",
+                "birthDate": "2002-04-06T00:00:00",
+                "picture": {
+                    "id": "1b64fbc7-074c-4137-bf90-b01b94556425",
+                    "name": "IMG_20240730_184512.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46141/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45696,
+                "name": "Mathilde SCHMIDT",
+                "firstName": "Mathilde",
+                "lastName": "SCHMIDT",
+                "mail": "mathilde.schmidt@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Product Manager Etudiants (Dema1n.org)",
+                "birthDate": "1993-09-22T00:00:00",
+                "picture": {
+                    "id": "b4a4be20-5b3f-4ebc-8395-a8156e5920a5",
+                    "name": "DSC_5449.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45696/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45974,
+                "name": "Megane SERVIANT",
+                "firstName": "Megane",
+                "lastName": "SERVIANT",
+                "mail": "megane.serviant@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Coordinatrice Orientation et suivi de bénéficiaires",
+                "birthDate": "1991-10-17T00:00:00",
+                "picture": {
+                    "id": "fd56ee68-364f-4e29-a06e-8c397ac3838a",
+                    "name": "SERVIANT - Photo.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45974/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45961,
+                "name": "Ines SHYTI",
+                "firstName": "Ines",
+                "lastName": "SHYTI",
+                "mail": "ines.shyti@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Coordinatrice pédagogique INSPIRE",
+                "birthDate": "1996-04-06T00:00:00",
+                "picture": {
+                    "id": "158e5106-1d67-4fc3-822f-976e9b296492",
+                    "name": "WhatsApp Image 2024-02-06 à 14.52.53_1963658f.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45961/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46177,
+                "name": "Léa SILVA",
+                "firstName": "Léa",
+                "lastName": "SILVA",
+                "mail": "lea.silva@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Chargée de projet scolaire et suivi des lycéens (2nde/1ère)",
+                "birthDate": "2001-07-25T00:00:00",
+                "picture": {
+                    "id": "02380c35-9de7-45d8-a3c2-7d5c6814b1a8",
+                    "name": "SILVA Léa.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46177/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45954,
+                "name": "Malvina SKRLEC",
+                "firstName": "Malvina",
+                "lastName": "SKRLEC",
+                "mail": "malvina.skrlec@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Coordinatrice Insertion Professionnelle ",
+                "birthDate": "1997-04-30T00:00:00",
+                "picture": {
+                    "id": "a60b6ab5-8135-471a-b23b-98441e09601c",
+                    "name": "photo cv.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45954/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45837,
+                "name": "Charlie SOUCHAY",
+                "firstName": "Charlie",
+                "lastName": "SOUCHAY",
+                "mail": "charlie.souchay@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Chargé de création de contenus",
+                "birthDate": "2000-09-12T00:00:00",
+                "picture": {
+                    "id": "20d63e3d-1c23-411a-9e8e-6cffd777a80c",
+                    "name": "Charlie carré.png",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45837/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46075,
+                "name": "Regis THIBAULT",
+                "firstName": "Regis",
+                "lastName": "THIBAULT",
+                "mail": "regis.thibault@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Directeur Communication",
+                "birthDate": "1983-04-28T00:00:00",
+                "picture": {
+                    "id": "160becd0-1bb1-4e87-94e1-382e7a4fb66d",
+                    "name": "RTHIBAULT.JPG",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46075/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46156,
+                "name": "Marie THIBEAUD",
+                "firstName": "Marie",
+                "lastName": "THIBEAUD",
+                "mail": "marie.thibeaud@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Volontaire ",
+                "birthDate": "2003-10-21T00:00:00",
+                "picture": {
+                    "id": "4ed8bd70-1c22-4eac-9f53-4e56cc9f963e",
+                    "name": "Screenshot_2025-05-21-12-32-11-323_com.miui.gallery.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46156/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45811,
+                "name": "Mounia TOUFFAHI",
+                "firstName": "Mounia",
+                "lastName": "TOUFFAHI",
+                "mail": "mounia.touffahi@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Coordinatrice Accompagnement à la vie étudiante ",
+                "birthDate": "1996-07-26T00:00:00",
+                "picture": {
+                    "id": "ca57c28f-c1aa-4b66-8790-61be8f40fa17",
+                    "name": "17.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45811/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45995,
+                "name": "Dignanyo Natacha Gwladys TOURE",
+                "firstName": "Dignanyo Natacha Gwladys",
+                "lastName": "TOURE",
+                "mail": "natacha.toure@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Cheffe de projets partenariats privés",
+                "birthDate": "1995-04-30T00:00:00",
+                "picture": {
+                    "id": "a988959a-c977-4faa-9a1a-a04bd6df991a",
+                    "name": "20240625_114229.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45995/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45824,
+                "name": "Emma TRANSON",
+                "firstName": "Emma",
+                "lastName": "TRANSON",
+                "mail": "emma.transon@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Cheffe de projet pilotage national des actions en lycée",
+                "birthDate": "1997-09-12T00:00:00",
+                "picture": {
+                    "id": "6f9e7f15-cd88-46b9-be6f-0b63b19dc5e4",
+                    "name": "72697674_479021292691442_6780737841136664576_n.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45824/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45985,
+                "name": "Anna TREHOREL",
+                "firstName": "Anna",
+                "lastName": "TREHOREL",
+                "mail": "anna.trehorel@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Coordinatrice Actions collectives - Insertion professionnelle",
+                "birthDate": "1994-08-22T00:00:00",
+                "picture": {
+                    "id": "02101253-2114-41c7-af14-f77311c6c972",
+                    "name": "Anna TREHOREL image (1).png",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45985/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46192,
+                "name": "Justine VALLEE",
+                "firstName": "Justine",
+                "lastName": "VALLEE",
+                "mail": "justine.vallee@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Chargée de déploiement et Référente programme MA1SON",
+                "birthDate": "1996-07-27T00:00:00",
+                "picture": {
+                    "id": "24a1a96e-dd4a-4cd3-910b-078b8872c7d5",
+                    "name": "Photo Justine-2.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46192/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45646,
+                "name": "Benjamin VARRON",
+                "firstName": "Benjamin",
+                "lastName": "VARRON",
+                "mail": "benjamin.varron@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Directeur Régional Grand-Ouest et Adjoint à la Direction des Territoires",
+                "birthDate": "1988-04-04T00:00:00",
+                "picture": {
+                    "id": "fe40ca0e-dfa7-4410-b972-22aff5aae5d3",
+                    "name": "0.png",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45646/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46204,
+                "name": "Clémentine VERMEULEN",
+                "firstName": "Clémentine",
+                "lastName": "VERMEULEN",
+                "mail": "clementine.vermeulen@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Cheffe de projet - pôle évènementiel et parrainage",
+                "birthDate": "1993-03-24T00:00:00",
+                "picture": {
+                    "id": "4b1e6929-d0ba-4501-a783-81ef25df1646",
+                    "name": "PJ_1P090_24004536_2024.png",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46204/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45711,
+                "name": "Emelyne VERNET",
+                "firstName": "Emelyne",
+                "lastName": "VERNET",
+                "mail": "emelyne.vernet@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Cheffe de projet Formation des bénévoles et pédagogie  ",
+                "birthDate": "1980-07-30T00:00:00",
+                "picture": {
+                    "id": "0c45fa73-266e-4f90-8519-c82247b5230c",
+                    "name": "20150412_180024.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45711/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46046,
+                "name": "Mila VERNEYRAS",
+                "firstName": "Mila",
+                "lastName": "VERNEYRAS",
+                "mail": "mila.verneyras@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Chargée de déploiement Prébac",
+                "birthDate": "2001-06-29T00:00:00",
+                "picture": {
+                    "id": "a9e50dcc-08eb-471d-b65b-488299f34ee2",
+                    "name": "IMG_20220831_175558.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46046/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46101,
+                "name": "Marie-Clara VETTORI",
+                "firstName": "Marie-Clara",
+                "lastName": "VETTORI",
+                "mail": "marie-clara.vettori@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Chargée de déploiement pôle lycéens",
+                "birthDate": "1998-10-11T00:00:00",
+                "picture": {
+                    "id": "b6faea2c-ac8e-4808-a303-dfdbf7a5051f",
+                    "name": "photo .jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46101/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46138,
+                "name": "Manon VIDAL",
+                "firstName": "Manon",
+                "lastName": "VIDAL",
+                "mail": "manon.vidal@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Volontaire",
+                "birthDate": "2006-11-02T00:00:00",
+                "picture": {
+                    "id": "cea03e7e-20a6-4918-83ea-4ba3fb40c8f1",
+                    "name": "1000002849.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46138/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46055,
+                "name": "Thibaut VINCENT",
+                "firstName": "Thibaut",
+                "lastName": "VINCENT",
+                "mail": "thibaut.vincent@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Chargé de déploiement pôle étudiants",
+                "birthDate": "1993-07-10T00:00:00",
+                "picture": {
+                    "id": "910d4866-09a9-40ba-ac11-0ee5e86b22e0",
+                    "name": "Thibaut.jpeg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46055/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45675,
+                "name": "Carmen VITOUR",
+                "firstName": "Carmen",
+                "lastName": "VITOUR",
+                "mail": "carmen.vitour@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Cheffe de projet Engagement ",
+                "birthDate": "1996-03-29T00:00:00",
+                "picture": {
+                    "id": "4d2b53e0-40d8-4d96-af0c-6224c76dd5b3",
+                    "name": "Podcast_plan-65.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45675/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 45959,
+                "name": "Thomas WESTHEAD",
+                "firstName": "Thomas",
+                "lastName": "WESTHEAD",
+                "mail": "thomas.westhead@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Product Manager Tech & Innovation",
+                "birthDate": "1992-08-28T00:00:00",
+                "picture": {
+                    "id": "453720ea-8251-4e10-bc4d-4f180ff7fd62",
+                    "name": "Westhead-Thomas-photo.JPG",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/45959/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46132,
+                "name": "Giovani Parfait-Jordan YOMBE",
+                "firstName": "Giovani Parfait-Jordan",
+                "lastName": "YOMBE",
+                "mail": "giovani.yombe@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Apprenti",
+                "birthDate": "1998-10-07T00:00:00",
+                "picture": {
+                    "id": "8e7a0485-f121-4822-a66e-d8ad5205567e",
+                    "name": "IMG_8736.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46132/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46158,
+                "name": "Elizaveta ZANOZINA",
+                "firstName": "Elizaveta",
+                "lastName": "ZANOZINA",
+                "mail": "elizaveta.zanozina@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Stagiaire",
+                "birthDate": "1997-12-06T00:00:00",
+                "picture": {
+                    "id": "57ff7fb1-3c7d-4bb8-bb03-a60f41459e59",
+                    "name": "ElizavetaZanozina_picture 2.jpeg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46158/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46178,
+                "name": "Réhane ZAOUITI",
+                "firstName": "Réhane",
+                "lastName": "ZAOUITI",
+                "mail": "rehane.zaouiti@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Chargée de projet vie étudiante et suivi des étudiants",
+                "birthDate": "2001-11-03T00:00:00",
+                "picture": {
+                    "id": "1c2c575a-ce71-44d1-8e7e-e85e3838b693",
+                    "name": "IMG_2937.jpeg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46178/picture?a=0",
+                    "mimeType": null
+                }
+            },
+            {
+                "id": 46084,
+                "name": "Aline ZHANG",
+                "firstName": "Aline",
+                "lastName": "ZHANG",
+                "mail": "aline.zhang@article-1.eu",
+                "professionalMobile": null,
+                "jobTitle": "Coordinatrice de projets IT",
+                "birthDate": "2000-03-28T00:00:00",
+                "picture": {
+                    "id": "94615ed2-7cf7-4b44-8c65-64a3ba1eed1c",
+                    "name": "photo-aline.jpg",
+                    "url": null,
+                    "href": "https://frateli.ilucca.net/directory/api/employees/46084/picture?a=0",
+                    "mimeType": null
+                }
+            }
+        ]
+    },
+    "metadata": null
+}
