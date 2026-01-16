@@ -12,9 +12,7 @@ export default defineNuxtConfig({
     baseURL: '/v1sages/',
     buildAssetsDir: 'assets'
   },
-  nitro: {
-    preset: 'github-pages'
-  },
+  ssr: false,
 
   css: ['~/assets/css/main.css'],
 
