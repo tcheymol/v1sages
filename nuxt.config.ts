@@ -10,7 +10,10 @@ export default defineNuxtConfig({
   },
   app: {
     baseURL: '/v1sages/',
-    buildAssetsDir: '_nuxt/'
+    buildAssetsDir: 'assets'
+  },
+  nitro: {
+    preset: 'github-pages'
   },
 
   css: ['~/assets/css/main.css'],
