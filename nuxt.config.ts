@@ -8,6 +8,10 @@ export default defineNuxtConfig({
   devtools: {
     enabled: true
   },
+  app: {
+    baseURL: '/v1sages/',
+    buildAssetsDir: '_nuxt/'
+  },
 
   css: ['~/assets/css/main.css'],
 
