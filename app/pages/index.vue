@@ -2,13 +2,13 @@
 // import scope from '~/assets/scope.json';
 import JSConfetti from 'js-confetti'
 
-// const persons = scope.data.items.filter(person => person?.picture?.name);
 const persons = [];
 const findRandomPerson = () => persons[Math.floor(Math.random() * persons.length)];
 const isModalOpen = ref(false);
 const person = ref(null);
 const ramdomPersons = ref([]);
 const guessedPerson = ref([]);
+// const persons = scope.data.items.filter(person => person?.picture?.name);
 
 
 function guessPerson(attemptedPerson) {
