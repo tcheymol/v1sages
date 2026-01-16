@@ -10,7 +10,7 @@ export default defineNuxtConfig({
   },
   app: {
     baseURL: '/v1sages/',
-    buildAssetsDir: '_nuxt/'
+    buildAssetsDir: 'v1sages/_nuxt/'
   },
   ssr: false,
 
