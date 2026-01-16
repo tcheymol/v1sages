@@ -11,7 +11,7 @@ export default defineNuxtConfig({
   ssr: false,
   app: {
     baseURL: '/v1sages/',
-    buildAssetsDir: 'visages/_nuxt/'
+    buildAssetsDir: 'v1sages/_nuxt/'
   },
 
   css: ['~/assets/css/main.css'],
