@@ -8,14 +8,10 @@ export default defineNuxtConfig({
   devtools: {
     enabled: true
   },
+  ssr: false,
   app: {
     baseURL: '/v1sages/',
     buildAssetsDir: '_nuxt/'
-  },
-  ssr: false,
-
-  nitro: {
-    preset: 'static',
   },
 
   css: ['~/assets/css/main.css'],
