@@ -13,6 +13,9 @@ export default defineNuxtConfig({
     buildAssetsDir: 'assets'
   },
   ssr: false,
+  nitro: {
+    preset: 'static'
+  },
 
   css: ['~/assets/css/main.css'],
 
